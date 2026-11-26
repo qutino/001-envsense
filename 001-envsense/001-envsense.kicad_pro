@@ -492,7 +492,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "001_env-sense.kicad_pro",
+    "filename": "001-envsense.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -668,8 +668,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "001_env-sense.kicad_sch",
-        "name": "001_env-sense",
+        "filename": "001-envsense.kicad_sch",
+        "name": "001-envsense",
         "uuid": "0b0bc04d-9a58-4a7f-906b-a4797aca5e3f"
       }
     ],

@@ -3188,7 +3188,7 @@
 			(uuid "32eccc32-3b56-4fda-ac38-5f7b65d74646")
 		)
 		(instances
-			(project "001_env-sense"
+			(project "001-envsense"
 				(path "/0b0bc04d-9a58-4a7f-906b-a4797aca5e3f"
 					(reference "U3")
 					(unit 1)
@@ -3276,7 +3276,7 @@
 			(uuid "b51dfbde-a92a-4340-bad5-2e2e2b45f56e")
 		)
 		(instances
-			(project "001_env-sense"
+			(project "001-envsense"
 				(path "/0b0bc04d-9a58-4a7f-906b-a4797aca5e3f"
 					(reference "U7")
 					(unit 1)
@@ -3401,7 +3401,7 @@
 			(uuid "b3e7f14a-ca93-44b6-b494-465002cf185d")
 		)
 		(instances
-			(project "001_env-sense"
+			(project "001-envsense"
 				(path "/0b0bc04d-9a58-4a7f-906b-a4797aca5e3f"
 					(reference "J1")
 					(unit 1)
@@ -3504,7 +3504,7 @@
 			(uuid "519816ef-4267-48d4-8687-05928ace221e")
 		)
 		(instances
-			(project "001_env-sense"
+			(project "001-envsense"
 				(path "/0b0bc04d-9a58-4a7f-906b-a4797aca5e3f"
 					(reference "U2")
 					(unit 1)
@@ -3637,7 +3637,7 @@
 			(uuid "9e8203e6-e8c1-49b1-96dd-3c0573209864")
 		)
 		(instances
-			(project "001_env-sense"
+			(project "001-envsense"
 				(path "/0b0bc04d-9a58-4a7f-906b-a4797aca5e3f"
 					(reference "U1")
 					(unit 1)
@@ -3737,7 +3737,7 @@
 			(uuid "c1c5b387-6a42-4440-87a3-b0cd12e54df7")
 		)
 		(instances
-			(project "001_env-sense"
+			(project "001-envsense"
 				(path "/0b0bc04d-9a58-4a7f-906b-a4797aca5e3f"
 					(reference "U6")
 					(unit 1)
@@ -3840,7 +3840,7 @@
 			(uuid "a19d695a-561b-4009-b5c1-1bd8ad1fa6ca")
 		)
 		(instances
-			(project "001_env-sense"
+			(project "001-envsense"
 				(path "/0b0bc04d-9a58-4a7f-906b-a4797aca5e3f"
 					(reference "U4")
 					(unit 1)
@@ -3929,7 +3929,7 @@
 			(uuid "7e58bbe0-9ab5-4773-a8d8-e50e212a17e4")
 		)
 		(instances
-			(project "001_env-sense"
+			(project "001-envsense"
 				(path "/0b0bc04d-9a58-4a7f-906b-a4797aca5e3f"
 					(reference "U5")
 					(unit 1)
@@ -4074,7 +4074,7 @@
 			(uuid "a593b932-0005-4bbb-a097-f75258b049f8")
 		)
 		(instances
-			(project "001_env-sense"
+			(project "001-envsense"
 				(path "/0b0bc04d-9a58-4a7f-906b-a4797aca5e3f"
 					(reference "J3")
 					(unit 1)
